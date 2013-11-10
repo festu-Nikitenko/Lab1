@@ -1,0 +1,17 @@
+c:\users\student\documents\visual studio 2010\Projects\Ivan\Ivan\bin\Debug\Ivan.exe
+c:\users\student\documents\visual studio 2010\Projects\Ivan\Ivan\bin\Debug\Ivan.pdb
+c:\users\student\documents\visual studio 2010\Projects\Ivan\Ivan\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\student\documents\visual studio 2010\Projects\Ivan\Ivan\obj\x86\Debug\Ivan.exe
+c:\users\student\documents\visual studio 2010\Projects\Ivan\Ivan\obj\x86\Debug\Ivan.pdb
+F:\OOP\3 курс\Ivan\Ivan\obj\x86\Debug\Ivan.exe
+F:\OOP\3 курс\Ivan\Ivan\obj\x86\Debug\Ivan.pdb
+E:\OOP\3 курс\Ivan\Ivan\obj\x86\Debug\Ivan.exe
+E:\OOP\3 курс\Ivan\Ivan\obj\x86\Debug\Ivan.pdb
+E:\OOP\3 курс\Ivan\Ivan\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\OOP\3 курс\Ivan\Ivan\bin\Debug\Ivan.exe
+E:\OOP\3 курс\Ivan\Ivan\bin\Debug\Ivan.pdb
+G:\OOP\3 курс\Ivan\Ivan\obj\x86\Debug\Ivan.exe
+G:\OOP\3 курс\Ivan\Ivan\obj\x86\Debug\Ivan.pdb
+G:\OOP\3 курс\Ivan\Ivan\bin\Debug\Ivan.exe
+G:\OOP\3 курс\Ivan\Ivan\bin\Debug\Ivan.pdb
+G:\OOP\3 курс\Ivan\Ivan\obj\x86\Debug\ResolveAssemblyReference.cache
